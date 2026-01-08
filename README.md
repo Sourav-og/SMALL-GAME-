@@ -25,14 +25,6 @@ This project focuses on **DOM manipulation, game logic, and UI state control**.
 - **CSS3** – Styling and layout
 - **JavaScript (Vanilla)** – Game logic and interactivity
 - 
-tic-tac-toe/
-│
-├── index.html # Main HTML file
-├── README.md # Project documentation
-└── (optional) assets/
-└── bg.jpg # Background image
-
----
 
 ## 🎯 How the Game Works
 

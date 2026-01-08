@@ -61,15 +61,6 @@ These are stored as index patterns in JavaScript for efficient checking.
 
 _No additional setup required._
 
----
-
-## 📌 Future Improvements (Optional)
-
-- Draw / tie detection
-- Single-player mode (AI)
-- Score tracking
-- Sound effects
-- Mobile touch optimization
 
 ---
 
